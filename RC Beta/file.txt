@@ -1,0 +1,2 @@
+jorge;mtu67453;administrador
+miguel;mendes;aluno
