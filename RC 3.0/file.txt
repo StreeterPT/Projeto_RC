@@ -1,0 +1,3 @@
+miguel;mendes;aluno
+maquina;123;administrador
+magic;mike;professor
